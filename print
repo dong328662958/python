@@ -1,0 +1,5 @@
+print 'hello '
+print "world "
+
+3个双引号,可以打印出hello两边的""
+print """He said " hello " to God """
